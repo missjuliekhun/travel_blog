@@ -1,10 +1,24 @@
-# Travel With Julie!
-## Project 2: Travel Blog
+# README
 
-Hello, amazing earthlings! Welcome to my second project! I am looking to build a special travel blog where users can sign up, create, post, and share their bucket list items! Alternatively, we will be able to request each other as travel buddies, and help each other check off our bucket list items. 
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Below, you can view my thought process: at first I wanted to do a travel app where users can create something like a myspace, airbnb and facebook had a baby... but decided upon it and thought it was a little much. 
+Things you may want to cover:
 
-So I am making it so that users can sign up to create their own specific travel blog and start traveling with other users. Sounds simple, right? 
+* Ruby version
 
-![alt text](http://s855.photobucket.com/user/juliexk/media/15844895_1297044430316023_4357469529190795937_o.jpg[/IMG][/URL] "Travel Wireframe")
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
