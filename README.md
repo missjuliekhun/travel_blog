@@ -1,4 +1,4 @@
-# Julie's Travel Blog
+# Travel With Julie!
 ## Project 2: Travel Blog
 
 Hello, amazing earthlings! Welcome to my second project! I am looking to build a special travel blog where users can sign up, create, post, and share their bucket list items! Alternatively, we will be able to request each other as travel buddies, and help each other check off our bucket list items. 
