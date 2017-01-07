@@ -7,4 +7,5 @@ Below, you can view my thought process: at first I wanted to do a travel app whe
 
 So I am making it so that users can sign up to create their own specific travel blog and start traveling with other users. Sounds simple, right? 
 
+## Wireframe
 ![wireframe_travel](https://cloud.githubusercontent.com/assets/23322478/21733079/a726b126-d42a-11e6-9617-d34c31236161.jpg "wireframe")!
