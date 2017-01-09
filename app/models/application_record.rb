@@ -1,9 +1,9 @@
 class ApplicationRecord < ActiveRecord::Base
-  self.abstract_class = true
+  # self.abstract_class = true
 
-  attr_accessible :content, :name, :title
+  attr_accessor :content, :name, :title
 
   validates :name,  :presence => true
   validates :title, :presence => true,
-                    :length => { :minimum => 100 }
+                    :length => { :minimum => 10 }
 end
